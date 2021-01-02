@@ -1,0 +1,16 @@
+C:\Users\Danielle Granzotti\Desktop\Projetos\HelloWord\bin\Debug\net5.0\HelloWord.exe
+C:\Users\Danielle Granzotti\Desktop\Projetos\HelloWord\bin\Debug\net5.0\HelloWord.deps.json
+C:\Users\Danielle Granzotti\Desktop\Projetos\HelloWord\bin\Debug\net5.0\HelloWord.runtimeconfig.json
+C:\Users\Danielle Granzotti\Desktop\Projetos\HelloWord\bin\Debug\net5.0\HelloWord.runtimeconfig.dev.json
+C:\Users\Danielle Granzotti\Desktop\Projetos\HelloWord\bin\Debug\net5.0\HelloWord.dll
+C:\Users\Danielle Granzotti\Desktop\Projetos\HelloWord\bin\Debug\net5.0\ref\HelloWord.dll
+C:\Users\Danielle Granzotti\Desktop\Projetos\HelloWord\bin\Debug\net5.0\HelloWord.pdb
+C:\Users\Danielle Granzotti\Desktop\Projetos\HelloWord\obj\Debug\net5.0\HelloWord.csprojAssemblyReference.cache
+C:\Users\Danielle Granzotti\Desktop\Projetos\HelloWord\obj\Debug\net5.0\HelloWord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danielle Granzotti\Desktop\Projetos\HelloWord\obj\Debug\net5.0\HelloWord.AssemblyInfoInputs.cache
+C:\Users\Danielle Granzotti\Desktop\Projetos\HelloWord\obj\Debug\net5.0\HelloWord.AssemblyInfo.cs
+C:\Users\Danielle Granzotti\Desktop\Projetos\HelloWord\obj\Debug\net5.0\HelloWord.csproj.CoreCompileInputs.cache
+C:\Users\Danielle Granzotti\Desktop\Projetos\HelloWord\obj\Debug\net5.0\HelloWord.dll
+C:\Users\Danielle Granzotti\Desktop\Projetos\HelloWord\obj\Debug\net5.0\ref\HelloWord.dll
+C:\Users\Danielle Granzotti\Desktop\Projetos\HelloWord\obj\Debug\net5.0\HelloWord.pdb
+C:\Users\Danielle Granzotti\Desktop\Projetos\HelloWord\obj\Debug\net5.0\HelloWord.genruntimeconfig.cache
